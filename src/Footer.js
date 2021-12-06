@@ -1,13 +1,20 @@
 import React from "react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-//import { FaFacebookSquare } from "react-icons/fa";
-//import { FaFacebookSquare } from "@fortawesome/free-solid-svg-icons";
-//import { FaFacebookSquare } from "@fortawesome/free-brands-svg-icons";
+import { FaInstagram, FaFacebook } from "react-icons/fa";
 
 function Footer() {
   return (
-    <div>
-      <h1> Footer</h1>
+    <div class="h-16">
+      <h1 class="text-4xl"> Follow me</h1>
+      <div class="h-12 flex flex-row gap-4 justify-center">
+        <a href="http://www.instagram.com">
+          {" "}
+          <FaInstagram class="text-2xl" />{" "}
+        </a>
+        <a href="http://www.facebook.com">
+          {" "}
+          <FaFacebook class="text-2xl" />{" "}
+        </a>
+      </div>
     </div>
   );
 }
