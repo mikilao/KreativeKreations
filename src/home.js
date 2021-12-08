@@ -24,7 +24,7 @@ function Home() {
           class="my-2 block font-sans"
           href="https://rollingout.com/2021/12/05/keisha-writenow-allen-pursues-her-passion-by-self-publishing-1st-book/?swcfpc=1"
         >
-          Rolling Out
+          Rolling Out Interview
         </a>
       </div>
       <div class=" p-4 my-2 border-2 rounded border-yellow-600 bg-yellow-600">
