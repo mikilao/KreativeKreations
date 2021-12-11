@@ -14,6 +14,11 @@ function Footer() {
           {" "}
           <FaFacebook class="text-2xl" />{" "}
         </a>
+        <div>
+          <p className="sub-title">
+            built by <a href="http://www.systemley.com">Systemley Media</a>
+          </p>
+        </div>
       </div>
     </div>
   );
