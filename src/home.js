@@ -6,7 +6,7 @@ function Home() {
       <div class="flex p-4 my-2 border-2 rounded center border-yellow-400 bg-yellow-400">
         <a
           class="my-2 block font-sans"
-          href="https://www.keishawrotenowallen.com"
+          href="https://www.keishawritenowallen.com"
         >
           Keisha Allen Website
         </a>
